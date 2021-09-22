@@ -1,0 +1,10 @@
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Raleway', sans-serif; */
+@media(max-width:767px){
+    .btn{
+        display: none;
+    }
+    .large-join{
+        display: inherit;
+    }
+}
